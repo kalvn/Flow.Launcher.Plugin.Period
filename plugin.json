@@ -1,0 +1,12 @@
+{
+  "ID": "73453074v6fa5s48595x51ca1453b63e",
+  "ActionKeyword": "*",
+  "Name": "Period",
+  "Description": "Make date, time and duration calculations easily.",
+  "Author": "kalvn",
+  "Version": "0.0.1",
+  "Language": "javascript",
+  "Website": "https://github.com/kalvn/Flow.Launcher.Plugin.Period",
+  "ExecuteFileName": "dist\\main.js",
+  "IcoPath": "img\\app.png"
+}
